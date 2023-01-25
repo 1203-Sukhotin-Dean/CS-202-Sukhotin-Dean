@@ -1,0 +1,16 @@
+What is your name, major, and lab section?
+  My name is Dean, my major is Computer Science, and my lab section is 1105
+Do you have a partner for labs already?
+  No, I don't have any partner yet
+2a) If so, who?
+  No one
+If you don't have a partner and you'd like to choose (rather than being assigned), have you reached out using the class slack channel?
+  Not yet, but I will definetely use it later or use another method of choosing the partner
+Will you be using your personal computer for programming assignments and/or labs?
+  Mostly I will use the lab computer, but in some cases I will use my own computer
+4a) If so, do you already have a dev environment set up on your personal machine(remember, you'll need to install WSL if you're on a windows machine and add Visual Studio
+Code)?
+  Yes, I already have everything I need for working 
+4ai) If you haven't set up an environment or you'd like to alter your previous environment, have you followed the instructions in the posted video to set one up on your 
+local machine using VirtualBox (complete with git and your IDE)?
+  I have everything setted up
